@@ -1,0 +1,8 @@
+{
+	"http://int-v3-mobile.chanel.com/fnbv3/design-mobile/v_2016_11.05/css/styles_en_GB.css": "http://int-v3-www.chanel.com/fnbv3/design-desktop/v_2016_11.05/css/styles_en_GB.css",
+	"https://int-v3-desktop.chanel.com/fnbv3/design-desktop/v_2016_11.05/css/styles_fr_FR.css": {
+			"forward" :	 "https://int-v3-mobile.chanel.com/fnbv3/design-mobile/v_2016_11.05/css/styles_fr_FR.css",
+			"beatify" :   true,
+			"mime"	  :   "text/javascript"
+	}
+}
